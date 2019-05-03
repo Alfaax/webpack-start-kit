@@ -1,4 +1,4 @@
-# conciergerie
+# Webpack 4 - Vue - StarterKit
 
 > A Vue.js project
 
